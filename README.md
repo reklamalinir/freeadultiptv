@@ -1,6 +1,8 @@
 # Free Adult IPTV Links
 
-Playlist: http://cdn.adultiptv.net/all.m3u8
+Playlist: http://cdn.adultiptv.net/lists/all.m3u8
+
+Playlist is updated in every 10 minutes. New channels are added and not working ones are removed.
 
 # MILF
 http://cdn.adultiptv.net/milf.m3u8
