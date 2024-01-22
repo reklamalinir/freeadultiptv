@@ -1,6 +1,7 @@
 # Free Adult IPTV Links
 
-Live channels Playlist: https://adultiptv.net/chs.m3u Alternative: https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u
+Live channels Playlist: https://adultiptv.net/chs.m3u 
+Alternative: https://raw.githubusercontent.com/reklamalinir/freeadultiptv/master/live_adult_channels.m3u
 
 VOD Playlist: https://adultiptv.net/videos.m3u8
 
