@@ -1,8 +1,8 @@
 # Free Adult IPTV Links
 
-Playlist: http://cdn.adultiptv.net/lists/all.m3u8
+Live channels Playlist: https://adultiptv.net/chs.m3u
 
-Playlist is updated in every 10 minutes. New channels are added and not working ones are removed.
+VOD Playlist: https://adultiptv.net/videos.m3u8
 
 # MILF
 http://cdn.adultiptv.net/milf.m3u8
